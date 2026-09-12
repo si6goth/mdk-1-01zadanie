@@ -1,0 +1,10 @@
+﻿// Console.Write("Ввод числа: ");
+// string input = Console.ReadLine();
+// int number = Convert.ToInt32(input);
+// int result = int.Parse(input);
+// Console.Write("Ввод второго числа: ");
+// string input2 = Console.ReadLine();
+// int number2 = Convert.ToInt32(input2);
+// int result2 = int.Parse(input2);
+// Console.WriteLine(result * result2);
+// Console.WriteLine(2 * (result + result2));
